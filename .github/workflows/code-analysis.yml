@@ -2,6 +2,7 @@
 # It is triggered on pushes to the 'master' branch and publishes warnings into the security GitHub tab.
 # The workflow includes two jobs: one for CodeQL analysis on Ubuntu and another for MSVC Code Analysis on Windows.
 
+
 name: Code Analysis
 
 on:
